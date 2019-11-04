@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="Gen1">Generation 1</string>
+    <string name="Gen2">Generation 2</string>
+    <string name="Gen3">Generation 3</string>
+    <string name="Gen4">Generation 4</string>
+    <string name="Gen5">Generation 5</string>
+</resources>
